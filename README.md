@@ -16,6 +16,10 @@ This repository contains a web-based form implemented with HTML, CSS, and PHP fo
 - PHP
 - MySQL
 
+## Project Website
+
+PoseMaster is hosted on Vercel. You can view the project website and interact with the application [here](not processed)
+
 ## How to Use
 
 1. Clone this repository to your local machine or download the ZIP file.
@@ -27,3 +31,12 @@ This repository contains a web-based form implemented with HTML, CSS, and PHP fo
 7. Fill in the required information in the form fields.
 8. Click the "Submit" button to submit the form.
 9. If the submission is successful, a confirmation message will be displayed.
+
+## Contributing
+
+We welcome contributions to the project. Please submit a pull request with your changes.
+
+## Authors
+
+- Nakul Jain - Initial work
+
