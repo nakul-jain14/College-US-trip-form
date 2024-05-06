@@ -18,7 +18,7 @@ This repository contains a web-based form implemented with HTML, CSS, and PHP fo
 
 ## Project Website
 
-PoseMaster is hosted on Vercel. You can view the project website and interact with the application [here](not processed)
+The Form is hosted on Vercel. You can view the Form and interact with the application [here](not processed)
 
 ## How to Use
 
